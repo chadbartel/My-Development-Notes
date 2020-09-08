@@ -1,6 +1,17 @@
 # Jenkins
 
-## Helpful links
+## Table of Contents
+
+* [Summary](#Summary)
+* [Helpful Links](#Helpful-Links)
+* [Projects](#Projects)
+  * [Set up a Jenkins build server](#Set-Up-a-Jenkins-Build-Server)
+
+## Summary
+
+> Jenkins is a self-contained, open source automation server which can be used to automate all sorts of tasks related to building, testing, and delivering or deploying software.
+
+## Helpful Links
 
 * [Documentation](https://www.jenkins.io/doc/)
 * [Getting started](https://www.jenkins.io/doc/pipeline/tour/getting-started/)
@@ -13,11 +24,7 @@
 * [Set up a Jenkins build server](#Set-Up-a-Jenkins-Build-Server)
 * [Setting up a CI/CD pipeline by integrating Jenkins with AWS CodeBuild and AWS CodeDeploy](https://aws.amazon.com/blogs/devops/setting-up-a-ci-cd-pipeline-by-integrating-jenkins-with-aws-codebuild-and-aws-codedeploy/)
 
-## Summary
-
-> Jenkins is a self-contained, open source automation server which can be used to automate all sorts of tasks related to building, testing, and delivering or deploying software.
-
-### [Set Up a Jenkins Build Server](https://d1.awsstatic.com/Projects/P5505030/aws-project_Jenkins-build-server.pdf)
+### [Set up a Jenkins build server](https://d1.awsstatic.com/Projects/P5505030/aws-project_Jenkins-build-server.pdf)
 
  1. Prerequisites
 
