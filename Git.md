@@ -1,4 +1,4 @@
-# Git SCM
+# Git
 
 ## Table of Contents
 
