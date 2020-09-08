@@ -48,7 +48,7 @@
             * Click **Add Rule**, and then choose **HTTP** as the **Type**
                 * Under **Source**, select **Custom** and enter the IP range from step 1
             * Click **Add Rule**, and then choose **Custom TCP Rule** as the **Type**
-                * Under **Port Range** enter `8080` 
+                * Under **Port Range** enter `8080`
                 * Under **Source**, select **Custom** and enter the IP range from step 1
             * Click **Create**
     * Launch an EC2 instance
